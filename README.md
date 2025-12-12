@@ -1,5 +1,4 @@
 # 🛳️ Titanic - End-to-End ML Pipeline
-Below is a short checklist you can paste into `README.md` as the project landing description.
 
 ### Project overview
 A modular pipeline demonstrating preprocessing, feature engineering, and model training for the Titanic survival prediction problem. Implementations include logistic regression (with CV), decision trees (with visualization), Random Forest (with pipeline and GridSearchCV), and XGBoost (with parameter tuning and feature importance).
